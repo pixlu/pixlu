@@ -1,4 +1,4 @@
-## 👋 Hi there! :D
+## 👋 Hi there! :)
 I'm pixel and I'm a web developer. For now I have a lot of experience in these languages: 
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"></a>
