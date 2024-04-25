@@ -1,6 +1,6 @@
 # hi, im max
 
-im a web developer and boring content creator.
+im a web developer and boring content creator!
 
 there is nothing much on here which is available from the public, simply because im not active.
 
